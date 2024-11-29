@@ -1,2 +1,3 @@
-# Griffin-Club
+# Griffin-Club_HTML
+
 WD Assignment 1
